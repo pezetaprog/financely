@@ -1,2 +1,4 @@
-# Scrapify
-Scrapify es una aplicación diseñada para realizar web scraping de manera automatizada, permitiendo extraer, limpiar y almacenar información de distintos sitios web según las necesidades del usuario. El sistema facilita la recolección de datos estructurados para su posterior análisis o integración en otras aplicaciones
+# Financely
+Monitor bursátil en Java que consulta la API de Alpha Vantage y muestra:
+- Precio actual y variación porcentual de un símbolo (AAPL, MSFT, NVDA, etc.).
+- Gráfico histórico de precios usando JFreeChart.
